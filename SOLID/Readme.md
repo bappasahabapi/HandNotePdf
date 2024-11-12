@@ -1053,7 +1053,7 @@ class CanonPrinter implements IPrint {
 #
 
 <details>
-  <summary>Section 1: Introduction</summary>
+  <summary>Section 5:Dependency Inversion Principle (DIP)</summary>
   
 # 🔥05A-Dependency Inversion Principle (DIP) - পরিচিতি
 
