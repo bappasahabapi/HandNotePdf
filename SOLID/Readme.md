@@ -155,7 +155,7 @@ it always keeps changing in Software industry
 
 #
 <details>
-  <summary>Section 1: Open Close Principle(OCP)</summary>
+  <summary>Section 2: Open Close Principle(OCP)</summary>
   # 🔥02A-Open-Closed Principle (OCP)
 
 The Open-Closed Principle (OCP) is one of the five SOLID principles of object-oriented design. It states that **software entities (classes, modules, functions, etc.) should be open for extension but closed for modification**. This means that you should be able to add new functionality to existing code without altering its source code.
